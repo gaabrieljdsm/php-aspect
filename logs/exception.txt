@@ -1,0 +1,2 @@
+Erro: Falha ao executar o método create da classe Aspect\User 
+
